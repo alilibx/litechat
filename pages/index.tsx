@@ -80,7 +80,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm SSD Chatbot, an AI assistant by Smart Services Department in Roads and Transport Authority - Dubai (RTA). How can I help you?
+        content: `Hi there! I'm SSD Chatbot, How can I help you
         `
       }
     ]);
@@ -94,7 +94,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm SSD Chatbot, an AI assistant by Smart Services Department in Roads and Transport Authority - Dubai (RTA). How can I help you?`
+        content: `Hi there! I'm SSD Chatbot, How can I help you?`
       }
     ]);
   }, []);
