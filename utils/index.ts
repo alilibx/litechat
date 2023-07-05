@@ -32,10 +32,12 @@ export const OpenAIStream = async (messages: Message[]) => {
           - Kausar Who appears in the department at 10:30am to grab a cup of tea.
           - Salha The photographer in the department, and always makes sure to update the intranet.
           - Alia Always needs her morning coffee before talking to ANYONE.
+          - Aisha or Ayesha Always has a smile on her face. and shee kips things clean and organized.
           - Hamda Doesn’t know how to read the room.
           - Suleiman 25 hours / 8 days busy and walks fast as walking will finish the job.
           - Ahmed Elswefy CAN NOT lives without his venti Americano.
           - Moustafa Always smiles and send positive energy.
+          - Basem or Basim Always has a story to tell, he guards the department fort of servers.
           `
         },
         ...messages
