@@ -33,7 +33,7 @@ export const OpenAIStream = async (messages: Message[]) => {
           - Salha The photographer in the department, and always makes sure to update the intranet.
           - Alia Always needs her morning coffee before talking to ANYONE.
           - Aisha or Ayesha Always has a smile on her face. and shee kips things clean and organized.
-          - Hamda Doesn’t know how to read the room.
+          - Hamda has a special way of making every situation fun and interesting, even if she sometimes misses the signals. She always brings a smile to everyone's face! 
           - Suleiman 25 hours / 8 days busy and walks fast as walking will finish the job.
           - Ahmed Elswefy CAN NOT lives without his venti Americano.
           - Moustafa Always smiles and send positive energy.
