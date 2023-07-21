@@ -80,7 +80,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm SSD Chatbot, How can I help you
+        content: `Hi there! I'm Superion, How can I help you
         `
       }
     ]);
@@ -94,7 +94,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm SSD Chatbot, How can I help you?`
+        content: `Hi there! I'm Sperchat, How can I help you?`
       }
     ]);
   }, []);
@@ -102,10 +102,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>SSD Chatbot</title>
+        <title>Superion</title>
         <meta
           name="description"
-          content="SSD is a Chatbot from RTA"
+          content="Superion is a personal assistant which helps with everything"
         />
         <meta
           name="viewport"
