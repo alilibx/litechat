@@ -94,7 +94,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm Sperchat, How can I help you?`
+        content: `Hi there! I'm Superion, How can I help you?`
       }
     ]);
   }, []);
